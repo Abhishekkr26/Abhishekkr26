@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek Kumar</h1>
-<h3 align="center">A Data & Product Enthusiastic, Love to play with data. Currently Looking into Analytics @Zepto</h3>
+<h3 align="center">A Data & Product Enthusiastic, Love to play with Data. Currently Looking into Analytics @Zepto</h3>
 
 <img align="right" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
 
